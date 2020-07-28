@@ -1,6 +1,6 @@
 displayName = Elenir's Mod
 author = Elenir1
-version = 0.15
+version = 0.16
 hideCode = true
 hideResources = true
 homepage = https://forums.terraria.org/index.php?threads/the-creatively-named-elenirs-mod.96152/
