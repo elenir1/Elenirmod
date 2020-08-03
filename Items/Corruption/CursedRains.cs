@@ -70,7 +70,7 @@ namespace Elenirmod.Items.Corruption
         {
             //Book
             ModRecipe recipe = new ModRecipe(mod);
-            recipe.AddIngredient(ItemID.CursedFlames, 20);
+            recipe.AddIngredient(ItemID.CursedFlame, 20);
             recipe.AddIngredient(ItemID.Book, 1);
             recipe.AddIngredient(ItemID.ShadowScale, 10);
             recipe.AddTile(TileID.Bookcases);
